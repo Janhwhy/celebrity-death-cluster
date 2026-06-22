@@ -1,0 +1,7 @@
+data/raw/
+data/cleaned/
+data/outputs/
+__pycache__/
+*.pyc
+.env
+.DS_Store
